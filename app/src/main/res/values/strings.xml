@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="compose_an_email">Compose an Email</string>
+    <string name="create_an_alarm">Create an Alarm</string>
+    <string name="search_for_restaurants_in_baguio_city">Search for Restaurants in Baguio City</string>
+    <string name="add_calendar_event">Add calendar event</string>
+    <string name="_5">5</string>
+</resources>
